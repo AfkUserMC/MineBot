@@ -3,6 +3,9 @@
 ⚠️ WARNING! ⚠️
 If you do not know what you are doing, this may mess with your computer. **MAKE SURE TO FOCUS THE MINECRAFT WINDOW BEFORE THE TIMER ENDS, AND PRESS `Numpad *` TO END THE SCRIPT.**
 
+WARNING 2: If you are playing multiplayer, **USE AT YOUR OWN RISK.**
+Using this bot on a multiplayer server may be considered cheating, and while I do not endorse cheating, if you do want to use this bot on multiplayer, please excersize caution and use this at your own risk.
+
 [Download AutoHotkey](https://www.autohotkey.com)
 
 Launch either "minebot" or "minebot-movement-only"
