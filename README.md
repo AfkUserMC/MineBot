@@ -1,5 +1,7 @@
 # How To Use:
 
+⚠️ WARNING! ⚠️
+If you do not know what you are doing, this may mess with your computer. **MAKE SURE TO FOCUS THE MINECRAFT WINDOW BEFORE THE TIMER ENDS, AND PRESS `Numpad *` TO END THE SCRIPT.**
 
 [Download AutoHotkey](https://www.autohotkey.com)
 
