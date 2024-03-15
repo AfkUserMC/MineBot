@@ -10,7 +10,7 @@ Using this bot on a multiplayer server may be considered cheating, and while I d
 
 Launch either "minebot" or "minebot-movement-only"
 
-"minebot" will click, walk, turn, and spam sneak (funny)
+"minebot" will click, walk, turn, jump, and spam sneak (funny)
 
 "minebot-movement-only" will only walk and turn
 
