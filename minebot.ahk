@@ -1,7 +1,7 @@
-﻿SoundPlay, starting.mp3
+SoundPlay, starting.mp3
 Sleep, 5000
 Loop {
-	Random, action, 1, 5
+	Random, action, 1, 6
 	If (action = 1) {
 		SendInput, {W Down}
 		Sleep, 500
@@ -29,12 +29,18 @@ Loop {
 		SendInput, {Shift Up}
 		Sleep, 25
 	}
+	If (action = 6) {
+		SendInput, {Space Down}
+		Sleep, 250
+		SendInput, {Space Up}
+		Sleep, 50
+	}
 }
 NumpadMult::
 	ExitApp
 Left::
-; GOD HAS ABANDONED US AND FORCED US TO SUFFER
 	DllCall("mouse_event", uint, 1, int, -200, int, 0)
+	Exit
 Right::
-; this one works fine :D
 	DllCall("mouse_event", uint, 1, int, 200, int, 0)
+	Exit
